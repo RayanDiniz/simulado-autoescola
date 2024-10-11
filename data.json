@@ -1,0 +1,26 @@
+{
+  "name": "SimuladoAutoescolaApp",
+  "version": "1.0.0",
+  "quests": [
+    {
+      "quest": "Qual a opção?",
+      "correct": "Opção 3",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ]
+    },
+    {
+      "quest": "Qual a opção novamente?",
+      "correct": "Opção 1",
+      "options": [
+        "Opção 1",
+        "Opção 2",
+        "Opção 3",
+        "Opção 4"
+      ]
+    }
+  ]
+}
