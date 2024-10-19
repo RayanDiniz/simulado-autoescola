@@ -88,8 +88,8 @@ const showResult = () => {
     for (let i = 0; i < quests.length; i++) {
       let options = document.getElementsByName("option" + i)
       let result = document.getElementById("result" + (i + 1))
-      let correctAnswer = quests[i].correct // Supondo que o objeto JSON tenha uma propriedade 'correct'
-      console.log(correctAnswer)
+      let correctAnswer = quests[i].correct 
+      //console.log(correctAnswer)
 
       for (let option of options) {
         if (option.checked) {
