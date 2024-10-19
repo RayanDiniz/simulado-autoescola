@@ -1,0 +1,12 @@
+
+body {
+  font-family: Arial, sans-serif;
+}
+.question {
+  margin-bottom: 20px;
+}
+.navigation {
+  margin-top: 20px;
+}
+.hidden {
+  display: none;

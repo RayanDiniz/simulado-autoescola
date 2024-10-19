@@ -1,11 +1,3 @@
-// Função para embaralhar arrays
-const shuffleArray = (array) => {
-  for (let i = array.length - 1; i > 0; i--) {
-    const j = Math.floor(Math.random() * (i + 1));
-    [array[i], array[j]] = [array[j], array[i]];
-  }
-};
-
 // Configurando retorno do objeto
 let requestURL = "./data.json";
 let request = new XMLHttpRequest();
@@ -26,18 +18,12 @@ section.setAttribute("class", "main");
 
 const showContent = (jsonObj) => {
   let content = jsonObj["quests"];
-  
-  // Embaralhar questões
- // shuffleArray(content);
 
   content.forEach((question, index) => {
-    // Embaralhar opções
-    shuffleArray(question.options);
-
     let myDivQuest = document.createElement("div");
     myDivQuest.setAttribute("class", "question hidden");
     myDivQuest.setAttribute("id", "question" + index);
-
+    
     let mySpan = document.createElement("span");
     mySpan.setAttribute("id", "result" + (index + 1));
 
@@ -45,12 +31,6 @@ const showContent = (jsonObj) => {
     myH2.textContent = (index + 1) + ". " + question.quest;
     myH2.appendChild(mySpan);
     myDivQuest.appendChild(myH2);
-
-    if (question.img != "") {
-      let myImg = document.createElement("img");
-      myImg.setAttribute("src", question.img);
-      myDivQuest.appendChild(myImg);
-    }
 
     question.options.forEach((option, j) => {
       let myDivOption = document.createElement("div");
@@ -78,8 +58,7 @@ const showContent = (jsonObj) => {
   document.getElementById("question0").classList.remove("hidden");
 };
 
-let clicked = false;
-
+let clicked = false
 const showResult = () => {
   if (!clicked) {
     let quests = request.response.quests;
@@ -90,8 +69,7 @@ const showResult = () => {
       let options = document.getElementsByName("option" + i);
       let result = document.getElementById("result" + (i + 1));
       let correctAnswer = quests[i].correct; // Supondo que o objeto JSON tenha uma propriedade 'correct'
-      console.log(correctAnswer)
-
+      
       for (let option of options) {
         if (option.checked) {
           if (option.value === correctAnswer) {
@@ -105,13 +83,14 @@ const showResult = () => {
         }
       }
     }
-    
     let resultSection = document.createElement("div");
     resultSection.setAttribute("id", "resultSection");
     resultSection.textContent = `Você acertou ${score} de ${totalQuestions} questões.`;
     section.appendChild(resultSection);
-    clicked = true;
+
+    clicked = true
   }
+ 
 };
 
 const nextQuestion = () => {

@@ -3,23 +3,333 @@
   "version": "1.0.0",
   "quests": [
     {
-      "quest": "Qual a opção?",
-      "correct": "Opção 3",
+      "quest": "Na figura ao lado em um trecho de via com três faixas de transito, a autoridade competente sinalizou que a faixa da direita é de circulação exclusiva de caminhões. Dentre as placas abaixo, aquela que deve constar no local indicado na figura é a:",
+      "correct": "R-39",
+      "img": "./img/imagem1.png",
       "options": [
-        "Opção 1",
-        "Opção 2",
-        "Opção 3",
-        "Opção 4"
+        "R-32",
+        "R-9",
+        "R-39",
+        "R-27"
       ]
     },
     {
-      "quest": "Qual a opção novamente?",
-      "correct": "Opção 1",
+      "quest": "Manter seu veiculo em bom estado de conservação significa que:",
+      "correct": "O veículo em bom estado de conservação poderá trafegar de forma segura e confortável.",
+      "img": "",
       "options": [
-        "Opção 1",
-        "Opção 2",
-        "Opção 3",
-        "Opção 4"
+        "O seu veiculo é mais bonito que os outros.",
+        "Ele vai esta sempre em evidência.",
+        "Ele aumenta os ruidos.",
+        "O veículo em bom estado de conservação poderá trafegar de forma segura e confortável."
+      ]
+    },
+    {
+      "quest": "Analise as Afirmativas abaixo: I. Para o veiculo no viaduto. II. Para o veiculo na contramão de direção. III. Para o veiculo nas esquinas, a sete metros do bordo do alinhamento da via. Ocorrerá infração de trânsito em:",
+      "correct": "II e III.",
+      "img": "",
+      "options": [
+        "II e III.",
+        "I, II e III.",
+        "I e II.",
+        "II."
+      ]
+    },
+    {
+      "quest": "Qual placa de Atrativos Turisticos indica 'Zoologico'?",
+      "correct": "TIT-05",
+      "img": "./img/imagem2.png",
+      "options": [
+        "TIT-08",
+        "TAR-03",
+        "TIT-02",
+        "TIT-05"
+      ]
+    },
+    {
+      "quest": "Qual medida administrativa poderá ser adotada em alguns tipos de infração pelo agente de trânsito?",
+      "correct": "Recolhimento do certificado de lincenciamento.",
+      "img": "",
+      "options": [
+        "Apreensão do veiculo.",
+        "Cassação do documento de habilitação.",
+        "Suspensão do direito de dirigir.",
+        "Recolhimento do certificado de lincenciamento."
+      ]
+    },
+    {
+      "quest": "Tratando-se de relações humanas no transito, você deve ser:",
+      "correct": "Tolerante com as ações dos outros, colocando em primeiro lugar a segurança.",
+      "img": "",
+      "options": [
+        "Prudente, habilidoso e apressado.",
+        "Tolerante com as ações dos outros, colocando em primeiro lugar a segurança.",
+        "Alegre, coerente e conversar bastante com os passageiros.",
+        "Bem humorado e atrasado."
+      ]
+    },
+    {
+      "quest": "",
+      "correct": "",
+      "img": "",
+      "options": [
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "quest": "",
+      "correct": "",
+      "img": "",
+      "options": [
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "quest": "",
+      "correct": "",
+      "img": "",
+      "options": [
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "quest": "",
+      "correct": "",
+      "img": "",
+      "options": [
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "quest": "",
+      "correct": "",
+      "img": "",
+      "options": [
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "quest": "",
+      "correct": "",
+      "img": "",
+      "options": [
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "quest": "",
+      "correct": "",
+      "img": "",
+      "options": [
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "quest": "",
+      "correct": "",
+      "img": "",
+      "options": [
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "quest": "",
+      "correct": "",
+      "img": "",
+      "options": [
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "quest": "",
+      "correct": "",
+      "img": "",
+      "options": [
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "quest": "Segundo o Código de Trânsito Brasileiro o R-6a significa:",
+      "correct": "Proibido estacionar.",
+      "img": "./img/imagem3.png",
+      "options": [
+        "Estacionamento regulamentado.",
+        "Proibido parar e estacionar.",
+        "Proibido estacionar.",
+        "Proibido virar a direita."
+      ]
+    },
+    {
+      "quest": "",
+      "correct": "",
+      "img": "",
+      "options": [
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "quest": "",
+      "correct": "",
+      "img": "",
+      "options": [
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "quest": "",
+      "correct": "",
+      "img": "",
+      "options": [
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "quest": "",
+      "correct": "",
+      "img": "",
+      "options": [
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "quest": "",
+      "correct": "",
+      "img": "./img/imagem4.png",
+      "options": [
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "quest": "",
+      "correct": "",
+      "img": "",
+      "options": [
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "quest": "",
+      "correct": "",
+      "img": "",
+      "options": [
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "quest": "",
+      "correct": "",
+      "img": "",
+      "options": [
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "quest": "",
+      "correct": "",
+      "img": "",
+      "options": [
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "quest": "",
+      "correct": "",
+      "img": "",
+      "options": [
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "quest": "",
+      "correct": "",
+      "img": "",
+      "options": [
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "quest": "",
+      "correct": "",
+      "img": "",
+      "options": [
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "quest": "",
+      "correct": "",
+      "img": "",
+      "options": [
+        "",
+        "",
+        "",
+        ""
       ]
     }
   ]
