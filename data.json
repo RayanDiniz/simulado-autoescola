@@ -69,113 +69,113 @@
       ]
     },
     {
-      "quest": "",
-      "correct": "",
+      "quest": "O condutor que dirigir o veiculo sem portar o CNH ou Permissão para Dirigir comete:",
+      "correct": "Infração leve com multa, mas sem apreensão do veículo.",
       "img": "",
       "options": [
-        "",
-        "",
-        "",
-        ""
+        "Infração leve com multa, mas sem apreensão do veículo.",
+        "Infração grave - 5 pontos com multa e com a apreensão do veículo.",
+        "Infração gravissima - 7 pontos na CNH e multa (três vezes) e apreensão do veículo.",
+        "Infração grave com multa e apreensão do veículo."
       ]
     },
     {
-      "quest": "",
-      "correct": "",
+      "quest": "Indicam aos usuários da via os locais e tipos de serviços de que podem dispor ao longo da via, trata-se de:",
+      "correct": "Placas de serviços auxiliares.",
       "img": "",
       "options": [
-        "",
-        "",
-        "",
-        ""
+        "Placas de serviços auxiliares.",
+        "Marcas transversais.",
+        "Sinalização de regulamentação.",
+        "Marcas longitudinais."
       ]
     },
     {
-      "quest": "",
-      "correct": "",
+      "quest": "Quem deve utilizar a faixa de trânsito adicional, construída à direita de um longo aclive nas rodovias?",
+      "correct": "Veículos lentos e os que estiverem desenvolvendo pouca velocidade.",
       "img": "",
       "options": [
-        "",
-        "",
-        "",
-        ""
+        "Veículos lentos e os que estiverem desenvolvendo pouca velocidade.",
+        "Veículos que desenvolvam maior velocidade.",
+        "Somente caminhões que transportem corrosivos.",
+        "Somente ônibus de fretamento e turismo."
       ]
     },
     {
-      "quest": "",
-      "correct": "",
+      "quest": "Para que à circulação em lugares desconhecidos seja facilitada, devemos:",
+      "correct": "Estudar o mapa da cidade ou rodoviário antecipadamente, planejado o trajeto a ser percorrido.",
       "img": "",
       "options": [
-        "",
-        "",
-        "",
-        ""
+        "Ter no veículo computador de bordo.",
+        "Estudar o mapa da cidade ou rodoviário antecipadamente, planejado o trajeto a ser percorrido.",
+        "Perguntar para outros motoristas, pois os mapas tem erros.",
+        "Não olhar mapas."
       ]
     },
     {
-      "quest": "",
-      "correct": "",
+      "quest": "O que devemos fazer para manter a boa estabilidade de um veículo?",
+      "correct": "Manter os pneus devidamente calibrados.",
       "img": "",
       "options": [
-        "",
-        "",
-        "",
-        ""
+        "Fazer rodízio dos pneus dianteiros somente.",
+        "Usar o pneue stepe.",
+        "Manter os pneus devidamente calibrados.",
+        "Passar produto para limpar."
       ]
     },
     {
-      "quest": "",
-      "correct": "",
+      "quest": "Os condutores que possuem habilitação e tenham até de 65 anos, deverão renovar o exame de aptidão física e mental (médico):",
+      "correct": "De 5 em 5 anos.",
       "img": "",
       "options": [
-        "",
-        "",
-        "",
-        ""
+        "De 10 em 10 anos.",
+        "De 5 em 5 anos.",
+        "De 3 em 3 anos.",
+        "De 1 em 1 ano."
       ]
     },
     {
-      "quest": "",
-      "correct": "",
+      "quest": "O que o condutor deve fazer na possibilidade de um choque do veículo que ele está dirigindo, com o veículo que vai a frente dele?",
+      "correct": "Pisar no freio aos poucos reduzindo a velocidade do veículo.",
       "img": "",
       "options": [
-        "",
-        "",
-        "",
-        ""
+        "Deixar acontecer.",
+        "Acionar o freio de mão.",
+        "Pisar no freio aos poucos reduzindo a velocidade do veículo.",
+        "Mudar de direção sem sinalizar,"
       ]
     },
     {
-      "quest": "",
-      "correct": "",
+      "quest": "Quando chove o veículo perde a aderência com a pista e a visibilidade também é comprometida. O que o condutor deve fazer para aumentar a segurança quando chover em uma rodovia?",
+      "correct": "Reduzir a velocidade, aumentar a distância do veículo à frente e acender o farol baixo.",
       "img": "",
       "options": [
-        "",
-        "",
-        "",
-        ""
+        "Reduzir a velocidade, aumentar a distância do veiculo à frente e ligar o pisca-alerta.",
+        "Reduzir a velocidade, aumentar a distância do veículo à frente e acender o faro alto.",
+        "Reduzira velocidade, reduzir a distância do veículo à frente e acender o farol baixo.",
+        "Reduzir a velocidade, aumentar a distância do veículo à frente e acender o farol baixo."
       ]
     },
     {
-      "quest": "",
-      "correct": "",
+      "quest": "Um condutor verificou que seu veículo começou a apresentar falhas no freio após passar sobre um ponto de alagameto. Quala melhor atitude a fazer?",
+      "correct": "Reduzir a velocidade, testar o freio e, se necessário, sinalizar para parar e procurar socorro.",
       "img": "",
       "options": [
-        "",
-        "",
-        "",
-        ""
+        "Reduzir a velocidade, testar o freio e, se necessário, sinalizar para parar e procurar socorro.",
+        "Parar, bombear o pedal do freio várias vezes e seguir para seu destino.",
+        "Manter-se tranquio, reduzindo a velocidade até chegar ao seu destino.",
+        "Manter a velocidade, pois os freios vão secar meis adiante."
       ]
     },
     {
-      "quest": "",
-      "correct": "",
+      "quest": "Analise as condutas feitas em uma vítima de acidente que está sangrando e inconsciente: I. não movimentar a vítima; II. Aguardar o socorro profissional; III. Aplicar toniquete para estancar a hemorragia.<br/>As condutas corretas estão descritas na alternativa:",
+      "correct": "I e II, openas.",
       "img": "",
       "options": [
-        "",
-        "",
-        "",
-        ""
+        "II e III, apenas.",
+        "II apenas.",
+        "I e II, openas.",
+        "I, apenas."
       ]
     },
     {
@@ -190,36 +190,36 @@
       ]
     },
     {
-      "quest": "",
-      "correct": "",
+      "quest": "Nos procedimentos da respiração artificial, o que não ocorre com a vitima?",
+      "correct": "O ar sai pelos ouvidos.",
       "img": "",
       "options": [
-        "",
-        "",
-        "",
-        ""
+        "O ar sai pela boca e nariz da vítima.",
+        "A vitima necessita que a operação seja repetida quantas vezes forem necessárias.",
+        "O ar sai pelos ouvidos.",
+        "A vitima necessita que seja tirada da boca ou garganta qualquer objeto que possa dificultar a respiração."
       ]
     },
     {
-      "quest": "",
-      "correct": "",
+      "quest": "Para que serve o catalisador no veículo?",
+      "correct": "Reuzira poluição stmosíárica, vensformando os gases emiídos pelos veiculos em substâncias manos tóxicas.",
       "img": "",
       "options": [
-        "",
-        "",
-        "",
-        ""
+        "Reuzira poluição stmosíárica, vensformando os gases emiídos pelos veiculos em substâncias manos tóxicas.",
+        "Anular os ruídos sonoros dos veículos (buzinas, roncos do motor e outros), que ultrapassem 100 decibéis.",
+        "Fornecer à bateria uma corrente elétrica para repor a energia consumida durante o funcionamento do veículo.",
+        "Provocar as primeiras rotações do motor de combustão interna, até que ele entre em funcionamento total."
       ]
     },
     {
-      "quest": "",
-      "correct": "",
+      "quest": "No estacionamento do shopping você observa que o motorista 1 vai sair com o carro e desocupar a vaga. O motorista 2 aguarda o motorista 1 fazer a manobra para o ocupar a vaga liberada. De repente, vem o motorista 3 força a passagem e ocupa o lugar. Com isso, é correto afirmar que o motorista:",
+      "correct": "Não respeita o direito das outras pessoas.",
       "img": "",
       "options": [
-        "",
-        "",
-        "",
-        ""
+        "Não respeita o direito das outras pessoas.",
+        "É liberal e respeita o comportamento dos outros.",
+        "Entende que seus deveres são iguais aos direitos dos outros.",
+        "É cooperativo e respeita a sinalização."
       ]
     },
     {
