@@ -223,113 +223,113 @@
       ]
     },
     {
-      "quest": "",
-      "correct": "",
+      "quest": "Há diferentes tipos de colisões no trânsito, assinale a altemativa que não pertence a classificação da direção defensiva:",
+      "correct": "Colisão com vitima e sem vítima.",
       "img": "",
       "options": [
-        "",
-        "",
-        "",
-        ""
+        "Colisão com tens.",
+        "Colisão com vitima e sem vítima.",
+        "Colisão com motocicletas.",
+        "Colisão com bicicletas."
       ]
     },
     {
-      "quest": "",
-      "correct": "",
+      "quest": "Observe as placas abaixo e responda: Qual indica “Terminal Rodoviário”?",
+      "correct": "S-6",
       "img": "./img/imagem4.png",
       "options": [
-        "",
-        "",
-        "",
-        ""
+        "S-6",
+        "R-32",
+        "THC-03",
+        "S-14"
       ]
     },
     {
-      "quest": "",
-      "correct": "",
+      "quest": "Dentre os deveres dos condutores na preservação do meio ambiente, o que não deve ser feito?",
+      "correct": "Jogar ou depositar sujeira nas vias deixando em péssimas condições de uso.",
       "img": "",
       "options": [
-        "",
-        "",
-        "",
-        ""
+        "Jogar ou depositar sujeira nas vias deixando em péssimas condições de uso.",
+        "Colaborar com a limpeza das vias de trânsito, deixando-as em boas condições de uso.",
+        "Estacionar em recantos destinados ao descanso dos condutores.",
+        "Trar fotografia dos animais sivesres."
       ]
     },
     {
-      "quest": "",
-      "correct": "",
+      "quest": "Qual atitude deixa o trânsito mais seguro, educado e humano?",
+      "correct": "Quando um motorista pede passagem, diminua a velocidade e deixe-o passar.",
       "img": "",
       "options": [
-        "",
-        "",
-        "",
-        ""
+        "Usar a esquerda para trafegar devagar.",
+        "Quando um motorista pede passagem, acelerar e se posicionar no centro da pista",
+        "Quando um motorista pede passagem, diminua a velocidade e deixe-o passar.",
+        "Não sinalizar para mudar de faixa de rânsito."
       ]
     },
     {
-      "quest": "",
-      "correct": "",
+      "quest": "Qual é a distância que você deve manter entre o seu veículo e o que vai à sua frente? Esta distância permite que você evite uma colisão com o veículo da frente:",
+      "correct": "Distância de seguimento.",
       "img": "",
       "options": [
-        "",
-        "",
-        "",
-        ""
+        "Distância de reação.",
+        "Distância de seguimento.",
+        "Distância de parada.",
+        "Distância de renagem."
       ]
     },
     {
-      "quest": "",
-      "correct": "",
+      "quest": "Jogando o lixo em qualquer lugar, você pode estar causando o mal aos outros é à si mesmo, sem saber. Qual dos materiais relacionados abaixo demora mais tempo para se decompor?",
+      "correct": "Plástico.",
       "img": "",
       "options": [
-        "",
-        "",
-        "",
-        ""
+        "Bitucas de cigarros.",
+        "Jomal.",
+        "Plástico.",
+        "Caixas de papelão."
       ]
     },
     {
-      "quest": "",
-      "correct": "",
+      "quest": "Em situações de emergência, o que se deve fazer?",
+      "correct": "Retirar o veículo do fluxo de trânsito e sinalizar com o tiângulo e o pisca alerta.",
       "img": "",
       "options": [
-        "",
-        "",
-        "",
-        ""
+        "Procurar conservar seu veículo na via.",
+        "Buzinar para avisar os outros motoristas.",
+        "Abandonar seu veiculo na via.",
+        "Retirar o veículo do fluxo de trânsito e sinalizar com o tiângulo e o pisca alerta."
       ]
     },
     {
-      "quest": "",
-      "correct": "",
+      "quest": "Tratando-se de respiração artificial o socorrista terá que realizar alguns procedimentos. Indique a alternativa errada:",
+      "correct": "Deixar qualquer objeto na boca ou garganta da vítima, mesmo que esteja dificultando a entrada de ar.",
       "img": "",
       "options": [
-        "",
-        "",
-        "",
-        ""
+        "Abriras vias respiratórias inclinando a cabeça da vítima para trás e levantando-lhe o queixo.",
+        "Retire qualquer objeto da boca ou garganta da vítima, caso esteja dificultando a entrada de ar para a vitima.",
+        "Deixar qualquer objeto na boca ou garganta da vítima, mesmo que esteja dificultando a entrada de ar.",
+        "Se a vitima apresentar sangramento pela boca ou estiver vomitando, vire a cabeça para o lado."
       ]
     },
     {
-      "quest": "",
-      "correct": "",
+      "quest": "O condutor de veículo que estiver habilitado na categoria “B” poderá dirigir:",
+      "correct": "Veículos motorizados, não abrangido pela categoria A, cujo peso bruto total não exceda a 3.500 Kg e cuja lotação exceda a 8 lugares, excluído o do motorista. Veículo aulomotor da espécie motor casa, cujo peso não exceda a 6.000 kg, ou cuja lotação não exceda a 8 lugares, excluído o do motorista.",
       "img": "",
       "options": [
-        "",
-        "",
-        "",
-        ""
+        "Veículos motorizados, cuja unidade tratora se enquadre nas categorias “B', “C” ou “D”.",
+        "Veículos motorizados, para transporte de passageiros, que tenha mais de À (oito) lugares, sem contar o condutor.",
+        "Veículos motorizados, para transporte de carga, que exceda a 3.500kg de peso bruto total (PBT).",
+        "Veículos motorizados, não abrangido pela categoria A, cujo peso bruto total não exceda a 3.500 Kg e cuja lotação exceda a 8 lugares, excluído o do motorista. Veículo aulomotor da espécie motor casa, cujo peso não exceda a 6.000 kg, ou cuja lotação não exceda a 8 lugares, excluído o do motorista."
       ]
     },
     {
-      "quest": "",
-      "correct": "",
+      "quest": "Onde é permitido o trânsito em marcha à rê?",
+      "correct": "Apenas para pequenas manobras.",
       "img": "",
       "options": [
-        "",
-        "",
-        "",
-        ""
+        "Nos passeios.",
+        "Nas vias de trânsito rápido, para fugir de situações de congestionamento.",
+        "Nos acostamentos.",
+        "Apenas para pequenas manobras."
       ]
     }
   ]
