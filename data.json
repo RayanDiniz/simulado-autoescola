@@ -103,11 +103,11 @@
     },
     {
       "quest": "Para que à circulação em lugares desconhecidos seja facilitada, devemos:",
-      "correct": "Estudar o mapa da cidade ou rodoviário antecipadamente, planejado o trajeto a ser percorrido.",
+      "correct": "Estudar o mapa da cidade ou rodoviário antecipadamente, planejando o trajeto a ser percorrido.",
       "img": "",
       "options": [
         "Ter no veículo computador de bordo.",
-        "Estudar o mapa da cidade ou rodoviário antecipadamente, planejado o trajeto a ser percorrido.",
+        "Estudar o mapa da cidade ou rodoviário antecipadamente, planejando o trajeto a ser percorrido.",
         "Perguntar para outros motoristas, pois os mapas tem erros.",
         "Não olhar mapas."
       ]
@@ -168,7 +168,7 @@
       ]
     },
     {
-      "quest": "Analise as condutas feitas em uma vítima de acidente que está sangrando e inconsciente: I. não movimentar a vítima; II. Aguardar o socorro profissional; III. Aplicar toniquete para estancar a hemorragia.<br/>As condutas corretas estão descritas na alternativa:",
+      "quest": "Analise as condutas feitas em uma vítima de acidente que está sangrando e inconsciente: I. não movimentar a vítima; II. Aguardar o socorro profissional; III. Aplicar toniquete para estancar a hemorragia. As condutas corretas estão descritas na alternativa:",
       "correct": "I e II, openas.",
       "img": "",
       "options": [
@@ -322,7 +322,7 @@
       ]
     },
     {
-      "quest": "Onde é permitido o trânsito em marcha à rê?",
+      "quest": "Onde é permitido o trânsito em marcha à ré?",
       "correct": "Apenas para pequenas manobras.",
       "img": "",
       "options": [

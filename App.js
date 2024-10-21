@@ -98,7 +98,7 @@ const showResult = () => {
             result.innerText = "Correto"
             result.style.color = "green"
           } else {
-            result.innerText = "Errado"
+            result.innerText = "Errado: "+correctAnswer
             result.style.color = "red"
           }
         }
