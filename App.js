@@ -108,6 +108,11 @@ const showResult = () => {
     let resultSection = document.createElement("div")
     resultSection.setAttribute("id", "resultSection")
     resultSection.textContent = `Você acertou ${score} de ${totalQuestions} questões.`
+    
+    let btnReload = document.createElement("button")
+    btnReload.setAttribute("onclick", "location.reload()")
+    btnReload.textContent = "Refazer"
+    resultSection.appendChild(btnReload)
     section.appendChild(resultSection)
     clicked = true
   }
