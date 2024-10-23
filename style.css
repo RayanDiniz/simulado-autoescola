@@ -10,6 +10,25 @@ body {
   align-items: center;
   justify-content: center;
 }
+
+/*Pagina de Seleção*/
+.form-group{
+  padding: 5px;
+  display: flex;
+  justify-content: center;
+}.form-group button {
+  cursor: pointer;
+  padding: 1em;
+  border: none;
+  border-radius: 10px;
+  background-color: blue;
+  color: #fff;
+}.form-group button:hover {
+  background-color: green;
+}.form-group button:active{
+  transform: scale(0.9);
+}
+/*Pagina de Simulado*/
 .question {
   margin-bottom: 20px;
 }

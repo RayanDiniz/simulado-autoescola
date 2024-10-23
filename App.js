@@ -7,11 +7,16 @@ const shuffleArray = (array) => {
 };
 
 // Configurando retorno do objeto
-let requestURL = "./data.json"
-let request = new XMLHttpRequest()
-request.open("GET", requestURL)
-request.responseType = "json"
-request.send()
+const urlParams = new URLSearchParams(window.location.search);
+const simuladoFile = urlParams.get('simulado');
+let requestURL = `./${simuladoFile+".json"}`;
+let request = new XMLHttpRequest();
+request.open("GET", requestURL);
+request.responseType = "json";
+request.send();
+
+let title = document.querySelector("title")
+title.textContent = "Simulado "+simuladoFile.substring(3)
 
 request.onload = function() {
   let quests = request.response

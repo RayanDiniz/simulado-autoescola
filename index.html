@@ -1,21 +1,37 @@
 <!DOCTYPE html>
-<html lang="pt-br">
+<html lang="pt-BR">
 
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Simulado Auto Escola</title>
   <link rel="stylesheet" href="style.css">
+  <title>Simulado Auto Escola</title>
+
+  <style>
+    
+  </style>
 </head>
 
 <body>
-  <div class="navigation">
-    <button onclick="prevQuestion()" id="prevBtn" class="hidden">Anterior</button>
-    <button onclick="nextQuestion()" id="nextBtn">Próximo</button>
-    <button onclick="showResult()" id="finishBtn" class="hidden">Finalizar</button>
+  <div class="menu-init">
+    <h1>Selecionar Simulado</h1>
+    <div class="form-group">
+      <label for="simulado">Escolha um simulado:</label>
+      <select id="simulado" name="simulado">
+        <option value="dsm9">Simulado 9</option>
+      </select>
+    </div>
+    <div class="form-group">
+      <button onclick="startSimulado()">Iniciar Simulado</button>
+    </div>
   </div>
-  <section></section>
-  <script src="./App.js"></script>
+
+  <script>
+    function startSimulado() {
+      const simulado = document.getElementById('simulado').value;
+      window.location.href = `simulado.html?simulado=${simulado}`;
+    }
+  </script>
 </body>
 
 </html>
