@@ -9,16 +9,16 @@ const shuffleArray = (array) => {
 // Configurando retorno do objeto
 const urlParams = new URLSearchParams(window.location.search);
 const simuladoFile = urlParams.get('simulado');
-let requestURL = `./${simuladoFile+".json"}`;
+let requestURL = `./${simuladoFile + ".json"}`;
 let request = new XMLHttpRequest();
 request.open("GET", requestURL);
 request.responseType = "json";
 request.send();
 
 let title = document.querySelector("title")
-title.textContent = "Simulado "+simuladoFile.substring(3)
+title.textContent = "Simulado " + simuladoFile.substring(3)
 
-request.onload = function() {
+request.onload = function () {
   let quests = request.response
   showContent(quests)
   //console.log(quests["quests"])
@@ -31,9 +31,25 @@ section.setAttribute("class", "main")
 
 const showContent = (jsonObj) => {
   let content = jsonObj["quests"]
-  
-  // Embaralhar questões
- // shuffleArray(content)
+  // shuffleArray(content)  //Embaralhar questões
+
+  let menuTime = document.createElement("div")
+  let menuTimebutom = document.createElement("a")
+  let menuTimeTime = document.createElement("div")
+
+  menuTime.setAttribute("class", "menuTime")
+  menuTimebutom.textContent = "Sair"
+  menuTimebutom.setAttribute("href", "/")
+  menuTimebutom.setAttribute("class", "btnMenu")
+  menuTimeTime.setAttribute("id", "timer")
+
+  menuTime.appendChild(menuTimebutom)
+  menuTime.appendChild(menuTimeTime)
+  section.appendChild(menuTime)
+
+  let duration = 60 * 40 // Converter para segundos
+  display = document.querySelector('#timer') // selecionando o timer
+  startTimer(duration, display) // iniciando o timer
 
   content.forEach((question, index) => {
     // Embaralhar opções
@@ -83,17 +99,31 @@ const showContent = (jsonObj) => {
   document.getElementById("question0").classList.remove("hidden")
 }
 
+const startTimer = (duration, display) => {
+  let timer = duration, minutes, seconds
+  setInterval(function () {
+    minutes = parseInt(timer / 60, 10)
+    seconds = parseInt(timer % 60, 10)
+    minutes = minutes < 10 ? "0" + minutes : minutes
+    seconds = seconds < 10 ? "0" + seconds : seconds
+    display.textContent = minutes + ":" + seconds
+    if (--timer < 0) {
+      timer = duration
+    }
+  }, 1000)
+}
+
 let clicked = false
 const showResult = () => {
   if (!clicked) {
     let quests = request.response.quests
     let score = 0
-    let totalQuestions = quests.length 
-    
+    let totalQuestions = quests.length
+
     for (let i = 0; i < quests.length; i++) {
       let options = document.getElementsByName("option" + i)
       let result = document.getElementById("result" + (i + 1))
-      let correctAnswer = quests[i].correct 
+      let correctAnswer = quests[i].correct
       //console.log(correctAnswer)
 
       for (let option of options) {
@@ -103,17 +133,17 @@ const showResult = () => {
             result.innerText = "Correto"
             result.style.color = "green"
           } else {
-            result.innerText = "Errado: "+correctAnswer
+            result.innerText = "Errado: " + correctAnswer
             result.style.color = "red"
           }
         }
       }
     }
-    
+
     let resultSection = document.createElement("div")
     resultSection.setAttribute("id", "resultSection")
     resultSection.textContent = `Você acertou ${score} de ${totalQuestions} questões.`
-    
+
     let btnReload = document.createElement("button")
     btnReload.setAttribute("onclick", "location.reload()")
     btnReload.textContent = "Refazer"

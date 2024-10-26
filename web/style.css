@@ -5,7 +5,7 @@
 body {
   font-family: Arial, sans-serif;
   margin-bottom: 60px;
-  margin-top: 50px;
+  margin-top: 58px;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -29,7 +29,31 @@ body {
   transform: scale(0.9);
 }
 /*Pagina de Simulado*/
+.menuTime {
+  position: absolute;
+  top: 50px;
+  left: 0;
+  right: 0;
+  margin: 0;
+  padding-inline: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: rgb(255, 176, 4);
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: large;
+  font-weight: bold;
+}.btnMenu {
+  text-decoration: none;
+  background-color: red;
+  color: #fff;
+  border-radius: 5px;
+  padding: 2px;
+  padding-inline: 10px;
+}
+
 .question {
+  border-top: solid 2px;
   margin-bottom: 20px;
 }
 .navigation {
