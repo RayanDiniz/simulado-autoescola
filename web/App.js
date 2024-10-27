@@ -1,19 +1,11 @@
-// Função para embaralhar arrays
-const shuffleArray = (array) => {
-  for (let i = array.length - 1; i > 0; i--) {
-    const j = Math.floor(Math.random() * (i + 1));
-    [array[i], array[j]] = [array[j], array[i]];
-  }
-};
-
 // Configurando retorno do objeto
-const urlParams = new URLSearchParams(window.location.search);
-const simuladoFile = urlParams.get('simulado');
-let requestURL = `./${simuladoFile + ".json"}`;
-let request = new XMLHttpRequest();
-request.open("GET", requestURL);
-request.responseType = "json";
-request.send();
+const urlParams = new URLSearchParams(window.location.search)
+const simuladoFile = urlParams.get('simulado')
+let requestURL = `./${simuladoFile + ".json"}`
+let request = new XMLHttpRequest()
+request.open("GET", requestURL)
+request.responseType = "json"
+request.send()
 
 let title = document.querySelector("title")
 title.textContent = "Simulado " + simuladoFile.substring(3)
@@ -21,10 +13,19 @@ title.textContent = "Simulado " + simuladoFile.substring(3)
 request.onload = function () {
   let quests = request.response
   showContent(quests)
-  //console.log(quests["quests"])
 }
 //----
 
+// Função para embaralhar arrays
+const shuffleArray = (array) => {
+  for (let i = array.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [array[i], array[j]] = [array[j], array[i]];
+  }
+}
+//----
+
+// Criar area do Conteudo e Função para exibir as Questões
 let currentQuestionIndex = 0
 let section = document.querySelector("section")
 section.setAttribute("class", "main")
@@ -52,8 +53,7 @@ const showContent = (jsonObj) => {
   startTimer(duration, display) // iniciando o timer
 
   content.forEach((question, index) => {
-    // Embaralhar opções
-    shuffleArray(question.options)
+    shuffleArray(question.options)  // Embaralhar opções
 
     let myDivQuest = document.createElement("div")
     myDivQuest.setAttribute("class", "question hidden")
@@ -98,10 +98,12 @@ const showContent = (jsonObj) => {
 
   document.getElementById("question0").classList.remove("hidden")
 }
+//----
 
+// Função para exibir tempo do Simulado
 const startTimer = (duration, display) => {
   let timer = duration, minutes, seconds
-  setInterval(function () {
+  timerInterval = setInterval(function () {
     minutes = parseInt(timer / 60, 10)
     seconds = parseInt(timer % 60, 10)
     minutes = minutes < 10 ? "0" + minutes : minutes
@@ -112,10 +114,14 @@ const startTimer = (duration, display) => {
     }
   }, 1000)
 }
+//----
 
+// Função para exibir resultado e para o tempo
 let clicked = false
 const showResult = () => {
   if (!clicked) {
+    clearInterval(timerInterval)
+
     let quests = request.response.quests
     let score = 0
     let totalQuestions = quests.length
@@ -124,7 +130,6 @@ const showResult = () => {
       let options = document.getElementsByName("option" + i)
       let result = document.getElementById("result" + (i + 1))
       let correctAnswer = quests[i].correct
-      //console.log(correctAnswer)
 
       for (let option of options) {
         if (option.checked) {
@@ -139,7 +144,7 @@ const showResult = () => {
         }
       }
     }
-
+    
     let resultSection = document.createElement("div")
     resultSection.setAttribute("id", "resultSection")
     resultSection.textContent = `Você acertou ${score} de ${totalQuestions} questões.`
@@ -152,7 +157,9 @@ const showResult = () => {
     clicked = true
   }
 }
+//----
 
+// Função para o botão de proxima questão
 const nextQuestion = () => {
   let totalQuestions = document.getElementsByClassName("question").length
   if (currentQuestionIndex < totalQuestions - 1) {
@@ -170,7 +177,9 @@ const nextQuestion = () => {
     document.getElementById("prevBtn").classList.remove("hidden")
   }
 }
+//----
 
+// Função para botão de questão anterior
 const prevQuestion = () => {
   if (currentQuestionIndex > 0) {
     document.getElementById("question" + currentQuestionIndex).classList.add("hidden")
@@ -186,4 +195,5 @@ const prevQuestion = () => {
     document.getElementById("nextBtn").classList.remove("hidden")
     document.getElementById("finishBtn").classList.add("hidden")
   }
-};
+}
+//----

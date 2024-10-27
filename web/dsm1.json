@@ -4,13 +4,13 @@
   "quests": [
     {
       "quest": "Simulado ainda não disponivél!",
-      "correct": "",
+      "correct": "a",
       "img": "",
       "options": [
-        "",
-        "",
-        "",
-        ""
+        "a",
+        "b",
+        "c",
+        "d"
       ]
     }
   ]
