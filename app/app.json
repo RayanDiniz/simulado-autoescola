@@ -1,8 +1,8 @@
 {
   "expo": {
-    "name": "simuladoapp",
+    "name": "Simulado CNH-MA",
     "slug": "simuladoapp",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
@@ -29,6 +29,12 @@
         "projectId": "62f7117f-7adb-44d9-b70b-cdf3712b4c0e"
       }
     },
-    "owner": "rayandiniz"
+    "owner": "rayandiniz",
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/62f7117f-7adb-44d9-b70b-cdf3712b4c0e"
+    }
   }
 }
