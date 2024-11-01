@@ -3,7 +3,7 @@
   "ano": "2024",
   "quests": [
     {
-      "quest": "Na figura ao lado em um trecho de via com três faixas de transito, a autoridade competente sinalizou que a faixa da direita é de circulação exclusiva de caminhões. Dentre as placas abaixo, aquela que deve constar no local indicado na figura é a:",
+      "quest": "Na figura ao lado, em um trecho de via com três faixas de trânsito, a autoridade competente sinalizou que a faixa da direita é de circulação exclusiva de caminhões. Dentre as placas abaixo, aquela que deve constar no local indicado na figura é a:",
       "correct": "R-39",
       "img": "./img/imagem1.png",
       "options": [
@@ -14,18 +14,18 @@
       ]
     },
     {
-      "quest": "Manter seu veiculo em bom estado de conservação significa que:",
+      "quest": "Manter seu veículo em bom estado de conservação significa que:",
       "correct": "O veículo em bom estado de conservação poderá trafegar de forma segura e confortável.",
       "img": "",
       "options": [
-        "O seu veiculo é mais bonito que os outros.",
-        "Ele vai esta sempre em evidência.",
-        "Ele aumenta os ruidos.",
+        "O seu veículo é mais bonito que os outros.",
+        "Ele vai estar sempre em evidência.",
+        "Ele aumenta os ruídos.",
         "O veículo em bom estado de conservação poderá trafegar de forma segura e confortável."
       ]
     },
     {
-      "quest": "Analise as Afirmativas abaixo: I. Para o veiculo no viaduto. II. Para o veiculo na contramão de direção. III. Para o veiculo nas esquinas, a sete metros do bordo do alinhamento da via. Ocorrerá infração de trânsito em:",
+      "quest": "Analise as afirmativas abaixo: I. Para o veículo no viaduto. II. Para o veículo na contramão de direção. III. Para o veículo nas esquinas, a sete metros do bordo do alinhamento da via. Ocorrerá infração de trânsito em:",
       "correct": "II e III.",
       "img": "",
       "options": [
@@ -36,7 +36,7 @@
       ]
     },
     {
-      "quest": "Qual placa de Atrativos Turisticos indica 'Zoologico'?",
+      "quest": "Qual placa de atrativos turísticos indica 'Zoológico'?",
       "correct": "TIT-05",
       "img": "./img/imagem2.png",
       "options": [
@@ -48,17 +48,17 @@
     },
     {
       "quest": "Qual medida administrativa poderá ser adotada em alguns tipos de infração pelo agente de trânsito?",
-      "correct": "Recolhimento do certificado de lincenciamento.",
+      "correct": "Recolhimento do certificado de licenciamento.",
       "img": "",
       "options": [
-        "Apreensão do veiculo.",
+        "Apreensão do veículo.",
         "Cassação do documento de habilitação.",
         "Suspensão do direito de dirigir.",
-        "Recolhimento do certificado de lincenciamento."
+        "Recolhimento do certificado de licenciamento."
       ]
     },
     {
-      "quest": "Tratando-se de relações humanas no transito, você deve ser:",
+      "quest": "Tratando-se de relações humanas no trânsito, você deve ser:",
       "correct": "Tolerante com as ações dos outros, colocando em primeiro lugar a segurança.",
       "img": "",
       "options": [
@@ -69,18 +69,18 @@
       ]
     },
     {
-      "quest": "O condutor que dirigir o veiculo sem portar o CNH ou Permissão para Dirigir comete:",
+      "quest": "O condutor que dirigir o veículo sem portar a CNH ou Permissão para Dirigir comete:",
       "correct": "Infração leve com multa, mas sem apreensão do veículo.",
       "img": "",
       "options": [
         "Infração leve com multa, mas sem apreensão do veículo.",
         "Infração grave - 5 pontos com multa e com a apreensão do veículo.",
-        "Infração gravissima - 7 pontos na CNH e multa (três vezes) e apreensão do veículo.",
+        "Infração gravíssima - 7 pontos na CNH e multa (três vezes) e apreensão do veículo.",
         "Infração grave com multa e apreensão do veículo."
       ]
     },
     {
-      "quest": "Indicam aos usuários da via os locais e tipos de serviços de que podem dispor ao longo da via, trata-se de:",
+      "quest": "Indicam aos usuários da via os locais e tipos de serviços de que podem dispor ao longo da via. Trata-se de:",
       "correct": "Placas de serviços auxiliares.",
       "img": "",
       "options": [
@@ -102,13 +102,13 @@
       ]
     },
     {
-      "quest": "Para que à circulação em lugares desconhecidos seja facilitada, devemos:",
+      "quest": "Para que a circulação em lugares desconhecidos seja facilitada, devemos:",
       "correct": "Estudar o mapa da cidade ou rodoviário antecipadamente, planejando o trajeto a ser percorrido.",
       "img": "",
       "options": [
         "Ter no veículo computador de bordo.",
         "Estudar o mapa da cidade ou rodoviário antecipadamente, planejando o trajeto a ser percorrido.",
-        "Perguntar para outros motoristas, pois os mapas tem erros.",
+        "Perguntar para outros motoristas, pois os mapas têm erros.",
         "Não olhar mapas."
       ]
     },
@@ -118,13 +118,13 @@
       "img": "",
       "options": [
         "Fazer rodízio dos pneus dianteiros somente.",
-        "Usar o pneue stepe.",
+        "Usar o pneu estepe.",
         "Manter os pneus devidamente calibrados.",
         "Passar produto para limpar."
       ]
     },
     {
-      "quest": "Os condutores que possuem habilitação e tenham até de 65 anos, deverão renovar o exame de aptidão física e mental (médico):",
+      "quest": "Os condutores que possuem habilitação e tenham até 65 anos, deverão renovar o exame de aptidão física e mental (médico):",
       "correct": "De 5 em 5 anos.",
       "img": "",
       "options": [
@@ -135,84 +135,84 @@
       ]
     },
     {
-      "quest": "O que o condutor deve fazer na possibilidade de um choque do veículo que ele está dirigindo, com o veículo que vai a frente dele?",
-      "correct": "Pisar no freio aos poucos reduzindo a velocidade do veículo.",
+      "quest": "O que o condutor deve fazer na possibilidade de um choque do veículo que ele está dirigindo, com o veículo que vai à frente dele?",
+      "correct": "Pisar no freio aos poucos, reduzindo a velocidade do veículo.",
       "img": "",
       "options": [
         "Deixar acontecer.",
         "Acionar o freio de mão.",
-        "Pisar no freio aos poucos reduzindo a velocidade do veículo.",
-        "Mudar de direção sem sinalizar,"
+        "Pisar no freio aos poucos, reduzindo a velocidade do veículo.",
+        "Mudar de direção sem sinalizar."
       ]
     },
     {
-      "quest": "Quando chove o veículo perde a aderência com a pista e a visibilidade também é comprometida. O que o condutor deve fazer para aumentar a segurança quando chover em uma rodovia?",
+      "quest": "Quando chove, o veículo perde a aderência com a pista e a visibilidade também é comprometida. O que o condutor deve fazer para aumentar a segurança quando chover em uma rodovia?",
       "correct": "Reduzir a velocidade, aumentar a distância do veículo à frente e acender o farol baixo.",
       "img": "",
       "options": [
-        "Reduzir a velocidade, aumentar a distância do veiculo à frente e ligar o pisca-alerta.",
-        "Reduzir a velocidade, aumentar a distância do veículo à frente e acender o faro alto.",
-        "Reduzira velocidade, reduzir a distância do veículo à frente e acender o farol baixo.",
+        "Reduzir a velocidade, aumentar a distância do veículo à frente e ligar o pisca-alerta.",
+        "Reduzir a velocidade, aumentar a distância do veículo à frente e acender o farol alto.",
+        "Reduzir a velocidade, reduzir a distância do veículo à frente e acender o farol baixo.",
         "Reduzir a velocidade, aumentar a distância do veículo à frente e acender o farol baixo."
       ]
     },
     {
-      "quest": "Um condutor verificou que seu veículo começou a apresentar falhas no freio após passar sobre um ponto de alagameto. Quala melhor atitude a fazer?",
+      "quest": "Um condutor verificou que seu veículo começou a apresentar falhas no freio após passar sobre um ponto de alagamento. Qual a melhor atitude a fazer?",
       "correct": "Reduzir a velocidade, testar o freio e, se necessário, sinalizar para parar e procurar socorro.",
       "img": "",
       "options": [
         "Reduzir a velocidade, testar o freio e, se necessário, sinalizar para parar e procurar socorro.",
         "Parar, bombear o pedal do freio várias vezes e seguir para seu destino.",
-        "Manter-se tranquio, reduzindo a velocidade até chegar ao seu destino.",
-        "Manter a velocidade, pois os freios vão secar meis adiante."
+        "Manter-se tranquilo, reduzindo a velocidade até chegar ao seu destino.",
+        "Manter a velocidade, pois os freios vão secar mais adiante."
       ]
     },
     {
-      "quest": "Analise as condutas feitas em uma vítima de acidente que está sangrando e inconsciente: I. não movimentar a vítima; II. Aguardar o socorro profissional; III. Aplicar toniquete para estancar a hemorragia. As condutas corretas estão descritas na alternativa:",
-      "correct": "I e II, openas.",
+      "quest": "Analise as condutas feitas em uma vítima de acidente que está sangrando e inconsciente: I. não movimentar a vítima; II. Aguardar o socorro profissional; III. Aplicar torniquete para estancar a hemorragia. As condutas corretas estão descritas na alternativa:",
+      "correct": "I e II, apenas.",
       "img": "",
       "options": [
         "II e III, apenas.",
         "II apenas.",
-        "I e II, openas.",
+        "I e II, apenas.",
         "I, apenas."
       ]
     },
     {
-      "quest": "Segundo o Código de Trânsito Brasileiro o R-6a significa:",
+      "quest": "Segundo o Código de Trânsito Brasileiro, o R-6a significa:",
       "correct": "Proibido estacionar.",
       "img": "./img/imagem3.png",
       "options": [
         "Estacionamento regulamentado.",
         "Proibido parar e estacionar.",
         "Proibido estacionar.",
-        "Proibido virar a direita."
+        "Proibido virar à direita."
       ]
     },
     {
-      "quest": "Nos procedimentos da respiração artificial, o que não ocorre com a vitima?",
+      "quest": "Nos procedimentos da respiração artificial, o que não ocorre com a vítima?",
       "correct": "O ar sai pelos ouvidos.",
       "img": "",
       "options": [
         "O ar sai pela boca e nariz da vítima.",
-        "A vitima necessita que a operação seja repetida quantas vezes forem necessárias.",
+        "A vítima necessita que a operação seja repetida quantas vezes forem necessárias.",
         "O ar sai pelos ouvidos.",
-        "A vitima necessita que seja tirada da boca ou garganta qualquer objeto que possa dificultar a respiração."
+        "A vítima necessita que seja tirado da boca ou garganta qualquer objeto que possa dificultar a respiração."
       ]
     },
     {
       "quest": "Para que serve o catalisador no veículo?",
-      "correct": "Reuzira poluição stmosíárica, vensformando os gases emiídos pelos veiculos em substâncias manos tóxicas.",
+      "correct": "Reduzir a poluição atmosférica, transformando os gases emitidos pelos veículos em substâncias menos tóxicas.",
       "img": "",
       "options": [
-        "Reuzira poluição stmosíárica, vensformando os gases emiídos pelos veiculos em substâncias manos tóxicas.",
-        "Anular os ruídos sonoros dos veículos (buzinas, roncos do motor e outros), que ultrapassem 100 decibéis.",
+        "Reduzir a poluição atmosférica, transformando os gases emitidos pelos veículos em substâncias menos tóxicas.",
+        "Anular os ruídos sonoros dos veículos (buzinas, roncos do motor e outros) que ultrapassem 100 decibéis.",
         "Fornecer à bateria uma corrente elétrica para repor a energia consumida durante o funcionamento do veículo.",
         "Provocar as primeiras rotações do motor de combustão interna, até que ele entre em funcionamento total."
       ]
     },
     {
-      "quest": "No estacionamento do shopping você observa que o motorista 1 vai sair com o carro e desocupar a vaga. O motorista 2 aguarda o motorista 1 fazer a manobra para o ocupar a vaga liberada. De repente, vem o motorista 3 força a passagem e ocupa o lugar. Com isso, é correto afirmar que o motorista:",
+      "quest": "No estacionamento do shopping, você observa que o motorista 1 vai sair com o carro e desocupar a vaga. O motorista 2 aguarda o motorista 1 fazer a manobra para ocupar a vaga liberada. De repente, vem o motorista 3, força a passagem e ocupa o lugar. Com isso, é correto afirmar que o motorista:",
       "correct": "Não respeita o direito das outras pessoas.",
       "img": "",
       "options": [
@@ -223,12 +223,12 @@
       ]
     },
     {
-      "quest": "Há diferentes tipos de colisões no trânsito, assinale a altemativa que não pertence a classificação da direção defensiva:",
-      "correct": "Colisão com vitima e sem vítima.",
+      "quest": "Há diferentes tipos de colisões no trânsito, assinale a alternativa que não pertence à classificação da direção defensiva:",
+      "correct": "Colisão com vítima e sem vítima.",
       "img": "",
       "options": [
-        "Colisão com tens.",
-        "Colisão com vitima e sem vítima.",
+        "Colisão com pessoas.",
+        "Colisão com vítima e sem vítima.",
         "Colisão com motocicletas.",
         "Colisão com bicicletas."
       ]
@@ -246,13 +246,13 @@
     },
     {
       "quest": "Dentre os deveres dos condutores na preservação do meio ambiente, o que não deve ser feito?",
-      "correct": "Jogar ou depositar sujeira nas vias deixando em péssimas condições de uso.",
+      "correct": "Jogar ou depositar sujeira nas vias, deixando-as em péssimas condições de uso.",
       "img": "",
       "options": [
-        "Jogar ou depositar sujeira nas vias deixando em péssimas condições de uso.",
+        "Jogar ou depositar sujeira nas vias, deixando-as em péssimas condições de uso.",
         "Colaborar com a limpeza das vias de trânsito, deixando-as em boas condições de uso.",
         "Estacionar em recantos destinados ao descanso dos condutores.",
-        "Trar fotografia dos animais sivesres."
+        "Trazer fotografias dos animais silvestres."
       ]
     },
     {
@@ -261,9 +261,9 @@
       "img": "",
       "options": [
         "Usar a esquerda para trafegar devagar.",
-        "Quando um motorista pede passagem, acelerar e se posicionar no centro da pista",
+        "Quando um motorista pede passagem, acelerar e se posicionar no centro da pista.",
         "Quando um motorista pede passagem, diminua a velocidade e deixe-o passar.",
-        "Não sinalizar para mudar de faixa de rânsito."
+        "Não sinalizar para mudar de faixa de trânsito."
       ]
     },
     {
@@ -274,51 +274,51 @@
         "Distância de reação.",
         "Distância de seguimento.",
         "Distância de parada.",
-        "Distância de renagem."
+        "Distância de frenagem."
       ]
     },
     {
-      "quest": "Jogando o lixo em qualquer lugar, você pode estar causando o mal aos outros é à si mesmo, sem saber. Qual dos materiais relacionados abaixo demora mais tempo para se decompor?",
+      "quest": "Jogando o lixo em qualquer lugar, você pode estar causando o mal aos outros e a si mesmo, sem saber. Qual dos materiais relacionados abaixo demora mais tempo para se decompor?",
       "correct": "Plástico.",
       "img": "",
       "options": [
         "Bitucas de cigarros.",
-        "Jomal.",
+        "Jornal.",
         "Plástico.",
         "Caixas de papelão."
       ]
     },
     {
       "quest": "Em situações de emergência, o que se deve fazer?",
-      "correct": "Retirar o veículo do fluxo de trânsito e sinalizar com o tiângulo e o pisca alerta.",
+      "correct": "Retirar o veículo do fluxo de trânsito e sinalizar com o triângulo e o pisca-alerta.",
       "img": "",
       "options": [
         "Procurar conservar seu veículo na via.",
         "Buzinar para avisar os outros motoristas.",
-        "Abandonar seu veiculo na via.",
-        "Retirar o veículo do fluxo de trânsito e sinalizar com o tiângulo e o pisca alerta."
+        "Abandonar seu veículo na via.",
+        "Retirar o veículo do fluxo de trânsito e sinalizar com o triângulo e o pisca-alerta."
       ]
     },
     {
-      "quest": "Tratando-se de respiração artificial o socorrista terá que realizar alguns procedimentos. Indique a alternativa errada:",
+      "quest": "Tratando-se de respiração artificial, o socorrista terá que realizar alguns procedimentos. Indique a alternativa errada:",
       "correct": "Deixar qualquer objeto na boca ou garganta da vítima, mesmo que esteja dificultando a entrada de ar.",
       "img": "",
       "options": [
-        "Abriras vias respiratórias inclinando a cabeça da vítima para trás e levantando-lhe o queixo.",
-        "Retire qualquer objeto da boca ou garganta da vítima, caso esteja dificultando a entrada de ar para a vitima.",
+        "Abrir as vias respiratórias inclinando a cabeça da vítima para trás e levantando-lhe o queixo.",
+        "Retirar qualquer objeto da boca ou garganta da vítima, caso esteja dificultando a entrada de ar para a vítima.",
         "Deixar qualquer objeto na boca ou garganta da vítima, mesmo que esteja dificultando a entrada de ar.",
-        "Se a vitima apresentar sangramento pela boca ou estiver vomitando, vire a cabeça para o lado."
+        "Se a vítima apresentar sangramento pela boca ou estiver vomitando, vire a cabeça para o lado."
       ]
     },
     {
       "quest": "O condutor de veículo que estiver habilitado na categoria “B” poderá dirigir:",
-      "correct": "Veículos motorizados, não abrangido pela categoria A, cujo peso bruto total não exceda a 3.500 Kg e cuja lotação exceda a 8 lugares, excluído o do motorista. Veículo aulomotor da espécie motor casa, cujo peso não exceda a 6.000 kg, ou cuja lotação não exceda a 8 lugares, excluído o do motorista.",
+      "correct": "Veículos motorizados, não abrangidos pela categoria A, cujo peso bruto total não exceda a 3.500 Kg e cuja lotação não exceda a 8 lugares, excluído o do motorista. Veículo automotor da espécie motor casa, cujo peso não exceda a 6.000 kg, ou cuja lotação não exceda a 8 lugares, excluído o do motorista.",
       "img": "",
       "options": [
-        "Veículos motorizados, cuja unidade tratora se enquadre nas categorias “B', “C” ou “D”.",
-        "Veículos motorizados, para transporte de passageiros, que tenha mais de À (oito) lugares, sem contar o condutor.",
+        "Veículos motorizados, cuja unidade tratora se enquadre nas categorias “B”, “C” ou “D”.",
+        "Veículos motorizados, para transporte de passageiros, que tenha mais de 8 (oito) lugares, sem contar o condutor.",
         "Veículos motorizados, para transporte de carga, que exceda a 3.500kg de peso bruto total (PBT).",
-        "Veículos motorizados, não abrangido pela categoria A, cujo peso bruto total não exceda a 3.500 Kg e cuja lotação exceda a 8 lugares, excluído o do motorista. Veículo aulomotor da espécie motor casa, cujo peso não exceda a 6.000 kg, ou cuja lotação não exceda a 8 lugares, excluído o do motorista."
+        "Veículos motorizados, não abrangidos pela categoria A, cujo peso bruto total não exceda a 3.500 Kg e cuja lotação não exceda a 8 lugares, excluído o do motorista. Veículo automotor da espécie motor casa, cujo peso não exceda a 6.000 kg, ou cuja lotação não exceda a 8 lugares, excluído o do motorista."
       ]
     },
     {

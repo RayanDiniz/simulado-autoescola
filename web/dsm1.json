@@ -3,14 +3,333 @@
   "ano": "2024",
   "quests": [
     {
-      "quest": "Simulado ainda não disponivél!",
-      "correct": "a",
+      "quest": "Os condutores de motocicletas, motonetas e ciclomotores poderão circular nas vias:",
+      "correct": "Utilizando capacete de segurança com viseira ou óculos protetores, segurando o guidão com as duas mãos e usando vestuário de proteção de acordo com as especificações do CONTRAN.",
       "img": "",
       "options": [
-        "a",
-        "b",
-        "c",
-        "d"
+        "Utilizando capacete de segurança com viseira ou óculos protetores, segurando o guidão com as duas mãos e usando vestuário de proteção de acordo com as especificações do CONTRAN.",
+        "É obrigatório o uso do capacete de segurança somente ao condutor.",
+        "Utilizando o capacete de segurança, segurando o guidão com uma das mãos.",
+        "Utilizando o capacete de segurança, vestuário de proteção como joelheira, cotoveleira e botas de couro."
+      ]
+    },
+    {
+      "quest": "Os veículos lançam no ar atmosférico vários elementos, um deles são os ALDEÍDOS. Esses compostos são lançados por:",
+      "correct": "Veículos movidos a álcool e provocam irritações nas mucosas, principalmente dos olhos.",
+      "img": "",
+      "options": [
+        "Veículos movidos a álcool e provocam irritações nas mucosas, principalmente dos olhos.",
+        "Veículos pesados, movidos à gasolina, e estão entre os responsáveis pela diminuição da camada de ozônio.",
+        "Veículos importados que não passaram pelo controle do CONAMA e provocam distúrbios respiratórios.",
+        "Veículos pesados, movidos a diesel, e provocam, principalmente, reações alérgicas nas vias respiratórias."
+      ]
+    },
+    {
+      "quest": "Todo motorista será proibido:",
+      "correct": "Manter a velocidade do veículo para não ser ultrapassado.",
+      "img": "",
+      "options": [
+        "Manter a velocidade do veículo para não ser ultrapassado.",
+        "Dar passagem pela esquerda, quando solicitado.",
+        "Parar na faixa de pedestre onde não houver semáforo.",
+        "Dirigir com apenas uma das mãos."
+      ]
+    },
+    {
+      "quest": "Analise os requisitos abaixo:\nI - ser penalmente imputável;\nII - possuir Carteira de Identidade ou equivalente;\nIII - saber ler e escrever.\nQual dos requisitos se refere à habilitação para conduzir veículos automotores?",
+      "correct": "I, II e III",
+      "img": "",
+      "options": [
+        "I e II, apenas.",
+        "I, II e III",
+        "I, apenas.",
+        "II e III, apenas."
+      ]
+    },
+    {
+      "quest": "Um motorista habilitado na categoria B tem 75 anos. Ele deve renovar o exame de aptidão física e mental a cada:",
+      "correct": "1 ano.",
+      "img": "",
+      "options": [
+        "1 ano.",
+        "2 anos.",
+        "5 anos.",
+        "3 anos."
+      ]
+    },
+    {
+      "quest": "Será concedida a CNH definitiva após um ano, ao condutor que possui a Permissão para Dirigir na categoria 'B':",
+      "correct": "Desde que não tenha cometido nenhuma infração de natureza grave ou gravíssima.",
+      "img": "",
+      "options": [
+        "Desde que não tenha cometido nenhuma infração.",
+        "Desde que não tenha cometido nenhuma infração de natureza grave ou gravíssima.",
+        "Desde que não tenha cometido nenhuma infração de natureza gravíssima.",
+        "Desde que não tenha cometido nenhuma infração de natureza grave ou gravíssima, ou seja reincidente em infração média."
+      ]
+    },
+    {
+      "quest": "A critério da autoridade de trânsito, a penalidade de advertência por escrito poderá ser aplicada em qual tipo de infração?",
+      "correct": "Natureza leve, desde que o infrator não seja reincidente na mesma infração nos últimos doze meses.",
+      "img": "",
+      "options": [
+        "Natureza leve, desde que o infrator não seja reincidente na mesma infração nos últimos doze meses.",
+        "Natureza média, desde que o infrator não seja reincidente na mesma infração nos últimos doze meses.",
+        "Natureza leve ou média em qualquer circunstância.",
+        "Natureza leve ou média, desde que o infrator não seja reincidente na mesma infração nos últimos doze meses."
+      ]
+    },
+    {
+      "quest": "O que indica a faixa de trânsito em linha contínua branca?",
+      "correct": "Via de sentido único.",
+      "img": "",
+      "options": [
+        "Permissão de ultrapassagem.",
+        "Marcação de cruzamentos rodoviários.",
+        "Via de sentido único.",
+        "Mão dupla."
+      ]
+    },
+    {
+      "quest": "Qual a finalidade da sinalização de indicação?",
+      "correct": "Identificar as vias, os destinos, os percursos, as distâncias, os serviços auxiliares e também a educação do usuário.",
+      "img": "",
+      "options": [
+        "Informar aos motoristas as condições, proibições, obrigações ou restrições ao uso da via.",
+        "Alertar os condutores para as condições de perigo das vias.",
+        "Identificar as vias, os destinos, os percursos, as distâncias, os serviços auxiliares e também a educação do usuário.",
+        "Educar os condutores e pedestres quanto ao seu comportamento no trânsito."
+      ]
+    },
+    {
+      "quest": "Quais as áreas do corpo mais críticas em caso de queimaduras?",
+      "correct": "São as vias aéreas, as partes genitais e a face.",
+      "img": "",
+      "options": [
+        "Tronco, cabelos e pernas.",
+        "Panturrilha, ombro e palmas.",
+        "Braços, joelhos e cotovelos.",
+        "São as vias aéreas, as partes genitais e a face."
+      ]
+    },
+    {
+      "quest": "Todo cidadão tem o direito de:",
+      "correct": "Solicitar aos órgãos e entidades do SNT sinalização, fiscalização, implantação de equipamentos de segurança.",
+      "img": "",
+      "options": [
+        "Fiscalizar o trânsito no bairro em que mora.",
+        "Solicitar aos órgãos e entidades do SNT sinalização, fiscalização, implantação de equipamentos de segurança.",
+        "Colocar obstáculo na rua em que mora.",
+        "Fiscalizar o trânsito e tomar decisões próprias que achar corretas."
+      ]
+    },
+    {
+      "quest": "Dirigir veículo com a validade da Carteira Nacional de Habilitação vencida há mais de trinta dias é considerado infração?",
+      "correct": "Gravíssima.",
+      "img": "",
+      "options": [
+        "Leve.",
+        "Grave.",
+        "Gravíssima.",
+        "Média."
+      ]
+    },
+    {
+      "quest": "Se acender no painel a luz piloto que corresponde à pressão de óleo lubrificante, com o óleo no nível, o condutor deve imediatamente:",
+      "correct": "Parar o veículo e chamar socorro mecânico.",
+      "img": "",
+      "options": [
+        "Completar o nível com aditivo à base de etileno glicol.",
+        "Parar o veículo e chamar socorro mecânico.",
+        "Diminuir a quantidade de óleo no cárter.",
+        "Aumentar a rotação do motor para que o óleo circule."
+      ]
+    },
+    {
+      "quest": "Qual a velocidade máxima permitida nas vias coletoras, quando não existir sinalização regulamentadora?",
+      "correct": "40 km/h.",
+      "img": "",
+      "options": [
+        "20 km/h.",
+        "40 km/h.",
+        "80 km/h.",
+        "60 km/h."
+      ]
+    },
+    {
+      "quest": "As atitudes dos condutores causam alguns problemas no trânsito. Em frente a uma situação, qual está certa?",
+      "correct": "Nos congestionamentos, seguir os veículos de emergência.",
+      "img": "",
+      "options": [
+        "Pararem em fila dupla e mudar de pista sem sinalizar.",
+        "Manter a velocidade ou diminuir quando outro condutor pedir passagem.",
+        "No verão, os motociclistas podem circular sem os equipamentos de segurança (capacete).",
+        "Nos congestionamentos, seguir os veículos de emergência."
+      ]
+    },
+    {
+      "quest": "Ao encontrar um congestionamento, o que o motorista deve fazer?",
+      "correct": "Manter-se calmo e com uma distância segura do veículo da frente.",
+      "img": "",
+      "options": [
+        "Manter-se a uma distância segura de 20 metros.",
+        "Buzinar e chamar a atenção dos outros motoristas.",
+        "Mudar de faixa constantemente para ir mais rápido.",
+        "Manter-se calmo e com uma distância segura do veículo da frente."
+      ]
+    },
+    {
+      "quest": "Assinale a alternativa incorreta sobre condição adversa de luz:",
+      "correct": "A condição de iluminação não influencia para a condução do veículo.",
+      "img": "",
+      "options": [
+        "O excesso de claridade provoca ofuscamento, criando assim dificuldades para dirigir.",
+        "O farol alto do veículo em sentido contrário pode causar cegueira momentânea e dificulta o controle do veículo.",
+        "A condição de iluminação não influencia para a condução do veículo.",
+        "A falta de visão adequada no momento de dirigir pode provocar condições favoráveis a um acidente."
+      ]
+    },
+    {
+      "quest": "Manter seu veículo em bom estado de conservação significa que:",
+      "correct": "O veículo em bom estado de conservação poderá trafegar de forma segura e confortável.",
+      "img": "",
+      "options": [
+        "O seu veículo é mais bonito que os outros.",
+        "Ele vai estar sempre em evidência.",
+        "Consome mais combustível.",
+        "O veículo em bom estado de conservação poderá trafegar de forma segura e confortável."
+      ]
+    },
+    {
+      "quest": "No cruzamento entre uma avenida e uma rua, o semáforo pisca em amarelo intermitente para todas as aproximações no período entre 23:00 e 05:00h. Se dois veículos se aproximarem do cruzamento nesse horário, terá prioridade de passagem o:",
+      "correct": "Automóvel, porque se aproxima pela direita do ônibus.",
+      "img": "./img/imagem5.png",
+      "options": [
+        "Ônibus, porque trafega pela avenida.",
+        "Ônibus, porque se aproxima pela esquerda do automóvel.",
+        "Ônibus, porque é o veículo maior.",
+        "Automóvel, porque se aproxima pela direita do ônibus."
+      ]
+    },
+    {
+      "quest": "Uma pessoa se depara com um acidente envolvendo dois carros. Ela se propõe a ajudar as vítimas, mas passa mal ao ver sangue e fraturas. Diante dessa situação ela poderá afastar o perigo e evitar novos acidentes tomando algumas medidas, como:\nI - Ligar a chave de ignição dos veículos acidentados;\nII - Sinalizar o local para evitar novos acidentes e atropelamentos;\nIII - Definir um local para melhor colocação do triângulo.\nQuais são as medidas corretas de primeiros socorros?",
+      "correct": "II e III apenas.",
+      "img": "",
+      "options": [
+        "II e III apenas.",
+        "I, II e III.",
+        "I e II, apenas.",
+        "I e III, apenas."
+      ]
+    },
+    {
+      "quest": "Animais soltos nas vias e pedestres são considerados condições adversas de:",
+      "correct": "Trânsito.",
+      "img": "",
+      "options": [
+        "Trânsito.",
+        "Motorista.",
+        "Vias.",
+        "Rodovias."
+      ]
+    },
+    {
+      "quest": "Em relação ao cinto de segurança, assinale a alternativa incorreta:",
+      "correct": "O cinto de três pontos é o mais seguro.",
+      "img": "",
+      "options": [
+        "O cinto torácico é aquele que se prende ao peito.",
+        "Grande de três pontos é aquele que se prende ao peito e ao quadril, formando um cinto único.",
+        "O cinto de três pontos é o mais seguro.",
+        "O cinto pélvico é aquele que se prende à cintura."
+      ]
+    },
+    {
+      "quest": "A imagem ao lado mostra um quarteirão de uma rua sinalizada conforme as placas indicadas. Estacionam três veículos nas seguintes datas e horários:\nVeículo 1 - estacionou do lado ímpar, dia 15 - quinta-feira, às 16 horas;\nVeículo 2 - estacionou do lado ímpar, dia 17 - sábado, às 11 horas;\nVeículo 3 - estacionou do lado par, dia 15 - quinta-feira, às 16 horas.\nQual veículo está em situação irregular?",
+      "correct": "1 e 3.",
+      "img": "./img/imagem6.png",
+      "options": [
+        "1.",
+        "1 e 3.",
+        "2.",
+        "3."
+      ]
+    },
+    {
+      "quest": "O que ocorre nas fraturas abertas?",
+      "correct": "O osso se quebra e há o rompimento da pele, é o que chamamos de fratura exposta.",
+      "img": "",
+      "options": [
+        "O osso não se quebra e há o rompimento da pele, é o que chamamos de fratura exposta.",
+        "O osso se quebra e há o rompimento da pele, é o que chamamos de fratura exposta.",
+        "O osso se quebra e há o rompimento da pele, é o que chamamos de fratura interna.",
+        "O osso se quebra e não há o rompimento da pele, é o que chamamos de fratura exposta."
+      ]
+    },
+    {
+      "quest": "Quando deve ser feita a manutenção preventiva de verificação do nível de óleo do motor?",
+      "correct": "Através da vareta de medição de óleo.",
+      "img": "",
+      "options": [
+        "Através de um reservatório de plástico.",
+        "Com o veículo parado sobre uma superfície inclinada.",
+        "Através da vareta de medição de óleo.",
+        "Sempre com o motor quente."
+      ]
+    },
+    {
+      "quest": "Assinale a alternativa que identifica a placa \"Transporte sobre Água\":",
+      "correct": "TAD-03",
+      "img": "./img/imagem7.png",
+      "options": [
+        "TAD-03",
+        "A-23",
+        "TAR-02",
+        "S-12"
+      ]
+    },
+    {
+      "quest": "A vítima com hemorragia interna não apresenta qual sintoma?",
+      "correct": "Fome.",
+      "img": "",
+      "options": [
+        "Fome.",
+        "Suor.",
+        "Pulso rápido.",
+        "Lábios azulados."
+      ]
+    },
+    {
+      "quest": "O IBAMA e o CONAMA são órgãos responsáveis pela regulamentação das leis ambientais que têm como objetivo:",
+      "correct": "A preservação da vida humana levando em consideração a qualidade de vida.",
+      "img": "",
+      "options": [
+        "Plantar árvores nos canteiros das vias.",
+        "A preservação da vida humana levando em consideração a qualidade de vida.",
+        "Plantar árvores frutíferas nas vias.",
+        "Plantar flores ornamentais nas estradas."
+      ]
+    },
+    {
+      "quest": "Quando o condutor deve portar a Permissão para Dirigir ou a Carteira Nacional de Habilitação?",
+      "correct": "É obrigatório quando o condutor estiver na direção do veículo.",
+      "img": "",
+      "options": [
+        "É obrigatório quando o condutor estiver na direção do veículo.",
+        "É obrigatório somente quando o condutor utilizar vias urbanas.",
+        "É obrigatório somente quando o condutor utilizar rodovias.",
+        "É obrigatório somente no Estado de origem."
+      ]
+    },
+    {
+      "quest": "Observe as placas abaixo e responda: Qual delas regulamenta \"Altura Máxima Permitida\"?",
+      "correct": "R-16.",
+      "img": "./img/imagem8.png",
+      "options": [
+        "A-16.",
+        "R-15.",
+        "A-37.",
+        "R-16."
       ]
     }
   ]
